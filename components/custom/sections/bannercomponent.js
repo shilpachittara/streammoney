@@ -17,8 +17,10 @@ const BannerComponent = () => {
           <div className="heading m-top-20">Transfer value real-time with</div>
           <div className="heading h-background">Payment Streaming protocol</div>
           <div className="text">
-            Manage recurring payouts, subscriptions, digital assets rental, etc.
-            cashflows efficiently with continous settlement protocol
+            <Col md="12">
+            Manage digital assets rental, subscriptions, recurring payments, etc.
+            efficiently with continous settlement protocol
+            </Col>
           </div>
           {/* <div className="form">
           <div id="banner1" >

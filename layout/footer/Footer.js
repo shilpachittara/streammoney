@@ -19,6 +19,7 @@ const Footer = () => {
           <Col lg="3" md="6"></Col>
           <Col lg="3" md="6"></Col>
           <Col lg="3" md="6">
+            <h5 className="m-b-20 text-color">Connect With Us</h5>
             <div className="round-social light">
               <Link href="https://discord.com/invite/emxMDBSMyc">
                 <a className="link">
