@@ -27,7 +27,7 @@ const HeaderComponent = () => {
           <Navbar className="navbar-expand-lg h2-nav">
             <NavbarBrand href="#">
               <Image src={logo} alt="logo" />
-              <span class="ml-auto h2-heading">Stream Money</span>
+              <span className="ml-auto h2-heading">Stream Money</span>
             </NavbarBrand>
             <NavbarToggler onClick={toggle}>
               <span className="ti-menu text-white"></span>
