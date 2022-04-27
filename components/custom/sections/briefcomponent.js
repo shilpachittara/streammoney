@@ -1,8 +1,8 @@
 /* eslint-disable */
 import React from "react";
 import { Row, Col, Container, Card, CardBody } from "reactstrap";
-import timeexpiry from "../../../assets/images/logos/time-expiry.png";
-import useexpiry from "../../../assets/images/logos/use-expiry.png";
+//import timeexpiry from "../../../assets/images/logos/time-expiry.png";
+//import useexpiry from "../../../assets/images/logos/use-expiry.png";
 
 const Briefcomponent = () => {
   return (
