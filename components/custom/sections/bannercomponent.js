@@ -14,13 +14,10 @@ const BannerComponent = () => {
           <h6 className="solana">
             POWERED BY <Image src={solana} alt="solana logo" />
           </h6>
-          <div className="heading m-top-20">Transfer value real-time with</div>
-          <div className="heading h-background">Payment Streaming protocol</div>
+          <div className="heading m-top-20">Utility Transfer Protocol for</div>
+          <div className="heading h-background">Digital Assets</div>
           <div className="text">
-            <Col md="12">
-            Manage digital assets rental, subscriptions, recurring payments, etc.
-            efficiently with continous settlement protocol
-            </Col>
+            Transfer conditional ownership of NFTs without collateral. Enable NFT rentals, subscriptions, ticketing, etc. usecases
           </div>
           {/* <div className="form">
           <div id="banner1" >

@@ -76,11 +76,11 @@ const HeaderComponent = () => {
                     </UncontrolledTooltip>
                   </NavLink>
                 </NavItem>
-                {/*<NavItem>
+                <NavItem>
                   <a className="btn btn-info" href="#">
                     Go To App
                   </a>
-  </NavItem>*/}
+                </NavItem>
               </Nav>
             </Collapse>
           </Navbar>

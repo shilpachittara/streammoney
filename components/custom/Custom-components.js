@@ -14,7 +14,7 @@ const CustomComponents = () => {
       <BannerComponent />
       <Briefcomponent />
       <FeatureComponent />
-      {/*<Roadmapcomponent />*/
+      {/* <Roadmapcomponent /> */}
 }
     </div>
   );
