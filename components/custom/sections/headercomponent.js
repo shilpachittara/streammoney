@@ -77,9 +77,14 @@ const HeaderComponent = () => {
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <a className="btn btn-info" href="#">
-                    Go To App
-                  </a>
+                  <NavLink
+                    className="btn btn-info"
+                    href="https://stream-nft-demo.vercel.app/"
+                    id="tooltip35669386734"
+                    target="_blank"
+                  >
+                     Go To App 
+                  </NavLink>
                 </NavItem>
               </Nav>
             </Collapse>
